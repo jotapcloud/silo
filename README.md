@@ -1,3 +1,5 @@
+![Logo do Silo](Assets/silo_logo.png)
+
 # Silo 📦 
 
 **Silo** é uma ferramenta de interface de linha de comando (CLI) escrita em Go, projetada para simplificar o backup e a sincronização de diretórios no Linux com um foco intransigente em segurança. 
